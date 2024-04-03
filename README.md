@@ -1,4 +1,4 @@
-# DSCI 310 Data analysis peer review 2021-22
+# DSCI 310 Data analysis peer review 2024
 
 This repository is the home to the UBC [DSCI 310 course](https://ubc-dsci.github.io/dsci-310-student/) open peer review. In this course students work in teams to build data analysis projects using R and Python, and perform open peer review of the projects they develop. To do this, the students follow the peer review process inspired by the [JOSS](https://joss.theoj.org/), [JOSE](https://jose.theoj.org/) and [rOpenSci](https://ropensci.org/) organizations. 
 
